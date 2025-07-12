@@ -11,8 +11,8 @@ import streamlit as st
 import pypdf
 
 
-
-llm = ChatOpenAI(temperature=1, model="gpt-4o")
+openai_api_key = st.secrets["OPENAI_API_KEY"]
+llm = ChatOpenAI(temperature=1, model="gpt-4o", api_key=openai_api_key)
 llm_with_tools = llm.bind_tools([WriteFileTool()])
 
 tools_dict = {}
