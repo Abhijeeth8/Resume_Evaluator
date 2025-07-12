@@ -1,0 +1,45 @@
+Responsibilities
+
+AI Development (40%)
+Prototyping, iterating, and taking to production domain-specific AI agents that can communicate and work with other AI agents, performing tasks such as information gathering, insight generation, and intelligent actions.
+Writing and optimizing code for high-performance AI models.
+Develop an actionable Generative AI roadmap and drive solution development using Gen-AI and Agentic AI capabilities.
+Collaboration with Teams (20%)
+Collaborate with transformation teams and business stakeholders to understand requirements and tailor AI agents to specific domains.
+Work closely with AI platform teams to build scalable and cross-domain AI agents while ensuring end-to-end observability.
+Integration & Deployment (20%)
+Lead AI projects, demonstrating hands-on experience in code development and software engineering.
+Deploy, monitor, and optimize AI agents on cloud infrastructure, ensuring high availability and performance.
+Continuous Learning (20%)
+Stay updated with the latest advancements in AI and machine learning technologies and integrate these into existing or new AI agents.
+Conduct thorough testing and validation to ensure the reliability and accuracy of AI agents and solutions.
+Decision-Making Autonomy Moderate - Significant autonomy in the technical aspects of AI model development and implementation, working under the strategic direction provided by the Senior AI Solutions Manager.
+Supervision Required Moderate - Operates with general guidance from the Senior AI Solutions Manager, with regular updates for alignment and support.
+Complexity of Role High - The role requires managing complex AI/ML projects, working with large datasets, and ensuring successful integration with existing systems while maintaining scalability.
+Cross-Functional Interactions Yes - Regular interaction with Data Science, Engineering, IT, digital products and business stakeholders to ensure effective AI solution deployment.
+
+Compensation and Benefits:
+
+The expected compensation range for this position is between $106,400 - $178,100.
+Location, confirmed job-related skills, experience, and education will be considered in setting actual starting salary. Your recruiter can share more about the specific salary range during the hiring process.
+Bonus based on performance and eligibility target payout is 12% of annual salary paid out annually.
+Paid time off subject to eligibility, including paid parental leave, vacation, sick, and bereavement.
+In addition to salary, PepsiCo offers a comprehensive benefits package to support our employees and their families, subject to elections and eligibility: Medical, Dental, Vision, Disability, Health, and Dependent Care Reimbursement Accounts, Employee Assistance Program (EAP), Insurance (Accident, Group Legal, Life), Defined Contribution Retirement Plan.
+
+Qualifications
+
+Education: Bachelor’s or Master’s degree in Computer Science, AI/ML, Data Science, or a related field.
+Experience: Proven experience in leading AI projects with hands-on experience in code development and software engineering.
+
+Required Expertise:
+
+Proficiency in programming languages such as Python, Java, or C(.
+Experience and working knowledge with Agentic AI frameworks (e.g., Langchain, CrewAi, MCP, A2A) and deployment of AI solutions on cloud infrastructures (AWS, Azure, or Google Cloud).
+Strong understanding and experience in designing AI agents and integrating advancements in AI/ML technologies.
+Excellent analytical, problem-solving, and communication skills.
+Ability to work collaboratively in a cross-functional team environment.
+Technical Proficiency: Deep understanding of new technologies, GenAI algorithms and Agentic tools.
+Problem-Solving: Ability to translate business challenges into technical solutions.
+Collaboration Skills: Effective at working within cross-functional teams.
+Agility: Flexibility to adapt to changing requirements and new technologies.
+Communication Skills: Capable of explaining complex technical concepts to non-technical stakeholders.
